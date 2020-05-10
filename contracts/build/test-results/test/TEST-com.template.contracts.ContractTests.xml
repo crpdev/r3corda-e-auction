@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.template.contracts.ContractTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-10T11:07:13" hostname="rajapandians-macpro.local" time="0.001">
+  <properties/>
+  <testcase name="dummyTest" classname="com.template.contracts.ContractTests" time="0.001"/>
+  <system-out><![CDATA[?[37m[INFO] 16:37:12,553 [Test worker] cordapp.JarScanningCordappLoader. - Loading CorDapps from RestrictedURL(url=file:/Users/rajapandian/workshop/r3corda/r3corda-e-auction/contracts/build/generated-custom-cordapps/20200510-110711.610/custom-cordapp_1_6_ef6f8fd9-ac1c-489d-be67-33fa19982f1e.jar, rootPackageName=null)
+?[m?[37m[INFO] 16:37:12,585 [Test worker] cordapp.JarScanningCordappLoader. - Scanning CorDapp in file:/Users/rajapandian/workshop/r3corda/r3corda-e-auction/contracts/build/generated-custom-cordapps/20200510-110711.610/custom-cordapp_1_6_ef6f8fd9-ac1c-489d-be67-33fa19982f1e.jar
+?[m?[37m[INFO] 16:37:12,656 [Test worker] ClassloaderUtils. - Contracts loading for '/var/folders/t9/ws02krbj7bd0f7yy21cldmpm0000gp/T/attachment2372034410230949483.jar' took 33 msec
+?[m]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
